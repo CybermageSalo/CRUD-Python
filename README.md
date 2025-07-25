@@ -1,2 +1,2 @@
 # CRUD-Python
-Create, Read, Update and Delete, programa em python para realizar as operações básicas de interação com um banco de dados
+Create, Read, Update and Delete, programa em python para realizar as operações básicas de interação com um banco de dados, com auxílio de uma interface gráfica.
